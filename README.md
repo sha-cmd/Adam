@@ -6,4 +6,4 @@ La recherche de paramètre est aléatoire mais avec une grille de paramètre.
 
 Un modèle est réentraîné avec les bons paramètres et donne de meilleurs résultats qu’un modèle par défaut.
 [notebook](https://github.com/sha-cmd/Adam/blob/master/notebook/machine_learning.ipynb).
-Le modèle est exécutable sur le site kaggle : [exécution dans kaggle](https://www.kaggle.com/code/adamlion/apple-quality-model)
+Le modèle est exécutable sur le site kaggle : [exécution dans kaggle](https://www.kaggle.com/code/adamlion/apple-quality)
